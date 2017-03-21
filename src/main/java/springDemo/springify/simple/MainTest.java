@@ -1,4 +1,4 @@
-package springDemo.springify;
+package springDemo.springify.simple;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
